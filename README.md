@@ -2,7 +2,7 @@
 
 https://amiarr.github.io/workshop-3-fork-/
 
-For this task I forked a respositry for the same task and made some changes. The link to my webpage does not work, though the files and and index look the same as the webpages that do work in my other repositrys. The sketch from the forked repositry is a collage of an image, which respnds to the task in workshop 3, I made changes to this sketch by changing the circles to hexagons, and making the hexagons smaller and faster. I propmpted ChatGPT to help create the hexagon shapes. 
+For this task I forked a respositry for the same task and made some changes. The link to my webpage does not work, though the files and and index look the same as the webpages that do work in my other repositrys. The sketch from the forked repositry is a collage of an image, which respnds to the task in workshop 3, I made changes to this sketch by changing the circles to hexagons, and making the hexagons smaller and faster. I propmpted ChatGPT to help create the hexagon shapes. I could have improved my adaptation of this sketch by thinking of some more creative ways to change it other than the just the shapes, because it still looks quite similar to the original sketch, I could have challenged myself by including some of the functions I struggled with in previous tasks. 
 
 <img width="996" alt="Screenshot 2025-01-23 at 3 05 05 PM" src="https://github.com/user-attachments/assets/2a8cd2eb-61d1-419b-af7b-9e44b242105a" />
 
